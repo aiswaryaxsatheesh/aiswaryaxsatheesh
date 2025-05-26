@@ -8,6 +8,4 @@ Hi there 👋
 
 📚 **Tools and Frameworks:** Scrum, Lean Six Sigma, Snowflake, GitHub, Visual Studio, SAS Studio, SSIS, dbt (data build tool), JIRA, Tableau Desktop/Server, Power BI, Microsoft Power Automate, LLMs, Gen AI tools, Jupyter Notebook
 
-🧠 Ask me about business use cases, SQL queries, or analytics career prep
-
-📬 How to reach me: https://www.linkedin.com/in/aiswaryasatheesh/ | Email: aiswaryasatheesh0597@gmail.com
+📬 Reach me at: https://www.linkedin.com/in/aiswaryasatheesh/ | Email: aiswaryasatheesh0597@gmail.com
