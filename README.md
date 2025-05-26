@@ -1,8 +1,8 @@
 Hi there 👋
 
-👋 I'm Aiswarya Satheesh
+I'm Aiswarya Satheesh
 
- 💻 Senior Data Analyst Asscociate | 🎓 Bachelor of Technology in Computer Science and Engineering |📊 Passionate about Data-Driven Decisions
+💻 Senior Data Analyst Asscociate | 🎓 Bachelor of Technology in Computer Science and Engineering |📊 Passionate about Data-Driven Decisions
 
 🎯 **Languages:** SQL, Python, SAS, R, Tableau, Power BI, Excel VBA, Power Query
 
